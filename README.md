@@ -3,7 +3,7 @@
 ## Team Members
 - Dr. Santhan Kumar Cherukuri
 - Ms. Mounica Nutakki
-- [Aishwarya Verma] (https://www.linkedin.com/in/aishwarya-verma-av107)
+- [Aishwarya Verma](https://www.linkedin.com/in/aishwarya-verma-av107)
 - A. Shanmukha Sai
 - Rudra Sai Prasad
 - K Ramya Sree
