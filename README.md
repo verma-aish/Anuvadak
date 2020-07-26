@@ -1,4 +1,4 @@
-# Anuvadak
+# ANUVADAK
 ### An application used for translation purposes.
 ## Team Members
 - Dr. Santhan Kumar Cherukuri
