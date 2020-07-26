@@ -15,3 +15,5 @@ The application is developed inorder to contribute in "Make in India" movement a
 The user will be able to translate a given text to various languages, in both text and speech format. Also QR and barcode scanner is provided and the link generated can be browsed in the Web-Viewer feature of the app. Image recognition feature is also added to entertain the users and help in social networking tags.
 ## Benefits
 Thus, we have made an application which provides people to get a translation device in their hands and accessible service to help people who are new to a place or even want to learn a language both in text and speech-wise
+## App Development Platform
+- [Thunkable](https://thunkable.com)
