@@ -1,7 +1,7 @@
 # ANUVADAK
 ### An application used for translation purposes.
 ## Team Members
-- Dr. Santhan Kumar Cherukuri
+- [Dr. Santhan Kumar Cherukuri](https://www.linkedin.com/in/santhankumarcherukuri-phd)
 - Ms. Mounica Nutakki
 - [Aishwarya Verma](https://www.linkedin.com/in/aishwarya-verma-av107)
 - A. Shanmukha Sai
